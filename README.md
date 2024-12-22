@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/my-package/main/assets/exorcism.png" alt="Screen" width="200"/>
+  <img src="https://raw.githubusercontent.com/notkiwy/exorcism/main/assets/exorcism.png" alt="Screen" width="900"/>
 </p>
 
 # 🖤 EXORCISM PACKAGE
